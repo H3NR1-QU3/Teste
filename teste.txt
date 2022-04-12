@@ -1,1 +1,12 @@
-Teste  Teste Teste  Teste Teste Teste Teste Teste Teste Test
+se ( achar o celular)
+   compra o produto
+se não (achar o celular)
+     sairá do site
+
+
+se ( puder pagar no cartao de credito)
+
+   compra o produto
+se não ( puder pagar no cartão de credito)
+
+   saira do site
